@@ -1,0 +1,36 @@
+
+   
+  .carousel-arrows {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    display: flex;
+  }
+  
+  .prev,
+  .next {
+    background-color: transparent;
+    border: none;
+    color: #000;
+    font-size: 24px;
+    cursor: pointer;
+    transition: opacity 0.3s;
+  }
+  
+  .prev:hover,
+  .next:hover {
+    opacity: 1;
+    color: white;
+    background-color: #2e2b2b;
+  }
+/*   
+  .seasonal-image-container {
+    margin-top: 20px;
+  } */
+  
+  /* .seasonal-image-container img {
+    width: 100%;
+    max-width: 640px;
+  }
+   */
+  

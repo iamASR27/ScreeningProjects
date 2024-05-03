@@ -1,0 +1,10 @@
+.quote {
+    text-align: center;
+    width: 50%;
+    max-width: 90%;
+    margin: auto auto;
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
